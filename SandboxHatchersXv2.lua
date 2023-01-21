@@ -1,4 +1,4 @@
-core = loadstring(game:HttpGet(''https://raw.githubusercontent.com/LostThisGame/core/main/core.lua'))()
+core = loadstring(game:HttpGet('https://raw.githubusercontent.com/brownfieldd00/core/main/core.lua'))()
 local Collectables = workspace.CollectablesFolder
 local Collectables2 = workspace.CollectablesFolderW2
 local Collectables3 = workspace.CollectablesFolderW3
